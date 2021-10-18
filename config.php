@@ -1,9 +1,9 @@
 <?php
 
-$username = "pma";
-$password="";
+$username = "id17786496_sagar";
+$password="Password@123";
 $server ="localhost";
-$db = "sparks_bank";
+$db = "id17786496_sparks_bank";
 
 
 $conn = mysqli_connect($server,$username,$password,$db);
